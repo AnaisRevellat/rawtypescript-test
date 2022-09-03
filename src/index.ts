@@ -1,2 +1,3 @@
-const test:string ='123';
-const alpha:number = 7;
+const test: string = "123";
+
+console.log(test);
