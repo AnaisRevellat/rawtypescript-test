@@ -1,2 +1,2 @@
-var test = '123';
-var alpha = 7;
+const test = '123';
+const alpha = 7;
