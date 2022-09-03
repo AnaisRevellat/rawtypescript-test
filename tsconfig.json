@@ -1,9 +1,7 @@
 {
 	"files": ["src/index.ts"],
 	"compilerOptions": {
-		"outDir": "dist",
-		"allowJs": true,
-        "module": "ESNext",
+	    "module": "ESNext",
         "target": "ES6"
 	}
 }

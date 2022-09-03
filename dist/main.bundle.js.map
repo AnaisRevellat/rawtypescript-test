@@ -1,0 +1,1 @@
+{"version":3,"file":"main.bundle.js","mappings":";;;;;AAAA;AACA","sources":["webpack://training/./src/index.ts"],"sourcesContent":["const test = '123';\r\nconst alpha = 7;\r\n"],"names":[],"sourceRoot":""}
